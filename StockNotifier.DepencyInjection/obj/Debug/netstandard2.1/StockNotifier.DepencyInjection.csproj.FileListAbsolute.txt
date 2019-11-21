@@ -1,0 +1,15 @@
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.DepencyInjection.deps.json
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.DepencyInjection.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.DepencyInjection.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.Application.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.Domain.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.Infrastructure.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.Domain.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.Infrastructure.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/bin/Debug/netstandard2.1/StockNotifier.Application.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/Debug/netstandard2.1/StockNotifier.DepencyInjection.csprojAssemblyReference.cache
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/Debug/netstandard2.1/StockNotifier.DepencyInjection.AssemblyInfoInputs.cache
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/Debug/netstandard2.1/StockNotifier.DepencyInjection.AssemblyInfo.cs
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/Debug/netstandard2.1/StockNotifier.DepencyInjection.csproj.CopyComplete
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/Debug/netstandard2.1/StockNotifier.DepencyInjection.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/Debug/netstandard2.1/StockNotifier.DepencyInjection.pdb

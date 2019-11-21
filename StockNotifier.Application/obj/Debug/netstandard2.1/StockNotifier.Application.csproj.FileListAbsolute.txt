@@ -1,0 +1,11 @@
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/bin/Debug/netstandard2.1/StockNotifier.Application.deps.json
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/bin/Debug/netstandard2.1/StockNotifier.Application.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/bin/Debug/netstandard2.1/StockNotifier.Application.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/bin/Debug/netstandard2.1/StockNotifier.Domain.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/bin/Debug/netstandard2.1/StockNotifier.Domain.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/Debug/netstandard2.1/StockNotifier.Application.csprojAssemblyReference.cache
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/Debug/netstandard2.1/StockNotifier.Application.AssemblyInfoInputs.cache
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/Debug/netstandard2.1/StockNotifier.Application.AssemblyInfo.cs
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/Debug/netstandard2.1/StockNotifier.Application.csproj.CopyComplete
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/Debug/netstandard2.1/StockNotifier.Application.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/Debug/netstandard2.1/StockNotifier.Application.pdb

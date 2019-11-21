@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Twilio" Version="5.35.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StockNotifier.Domain\StockNotifier.Domain.csproj" />
+    <ProjectReference Include="..\StockNotifier.Application\StockNotifier.Application.csproj" />
+  </ItemGroup>
+</Project>

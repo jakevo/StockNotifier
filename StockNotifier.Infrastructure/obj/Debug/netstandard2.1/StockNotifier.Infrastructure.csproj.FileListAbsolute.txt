@@ -1,0 +1,13 @@
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Infrastructure.deps.json
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Infrastructure.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Infrastructure.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Application.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Domain.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Domain.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/bin/Debug/netstandard2.1/StockNotifier.Application.pdb
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/Debug/netstandard2.1/StockNotifier.Infrastructure.csprojAssemblyReference.cache
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/Debug/netstandard2.1/StockNotifier.Infrastructure.AssemblyInfoInputs.cache
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/Debug/netstandard2.1/StockNotifier.Infrastructure.AssemblyInfo.cs
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/Debug/netstandard2.1/StockNotifier.Infrastructure.csproj.CopyComplete
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/Debug/netstandard2.1/StockNotifier.Infrastructure.dll
+/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/Debug/netstandard2.1/StockNotifier.Infrastructure.pdb

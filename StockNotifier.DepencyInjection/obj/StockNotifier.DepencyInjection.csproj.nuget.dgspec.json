@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/StockNotifier.DepencyInjection.csproj": {}
+  },
+  "projects": {
+    "/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/StockNotifier.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/StockNotifier.Application.csproj",
+        "projectName": "StockNotifier.Application",
+        "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/StockNotifier.Application.csproj",
+        "packagesPath": "/Users/jakevo/.nuget/packages/",
+        "outputPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jakevo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj": {
+                "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/StockNotifier.DepencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/StockNotifier.DepencyInjection.csproj",
+        "projectName": "StockNotifier.DepencyInjection",
+        "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/StockNotifier.DepencyInjection.csproj",
+        "packagesPath": "/Users/jakevo/.nuget/packages/",
+        "outputPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.DepencyInjection/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jakevo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj": {
+                "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj"
+              },
+              "/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/StockNotifier.Infrastructure.csproj": {
+                "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/StockNotifier.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj",
+        "projectName": "StockNotifier.Domain",
+        "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj",
+        "packagesPath": "/Users/jakevo/.nuget/packages/",
+        "outputPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jakevo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/StockNotifier.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/StockNotifier.Infrastructure.csproj",
+        "projectName": "StockNotifier.Infrastructure",
+        "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/StockNotifier.Infrastructure.csproj",
+        "packagesPath": "/Users/jakevo/.nuget/packages/",
+        "outputPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jakevo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/StockNotifier.Application.csproj": {
+                "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Application/StockNotifier.Application.csproj"
+              },
+              "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj": {
+                "projectPath": "/Users/jakevo/Projects/StockNotifier/StockNotifier.Domain/StockNotifier.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.35.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
